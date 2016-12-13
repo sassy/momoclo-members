@@ -8,17 +8,18 @@ import { SasakiComponent } from './members/sasaki.component';
 import { AriyasuComponent } from './members/ariyasu.component';
 import { TakagiComponent } from './members/takagi.component';
 
-
+import { ClarityModule } from 'clarity-angular';
 
 import { AppRoutingModule } from './app-routing.module';
 
 @NgModule({
     imports : [
         BrowserModule,
-        AppRoutingModule
+        AppRoutingModule,
+        ClarityModule
     ],
     declarations: [
-        AppComponent,   
+        AppComponent,
         MomotaComponent,
         TamaiComponent,
         SasakiComponent,
@@ -29,4 +30,3 @@ import { AppRoutingModule } from './app-routing.module';
 })
 
 export class AppModule {}
-
