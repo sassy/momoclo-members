@@ -21,7 +21,7 @@
     "@angular/router": "^10.0.0",
     "clarity-angular": "^buildLayer",
     "clarity-ui": "^0.10.28",
-    "core-js": "^2.4.1",
+    "core-js": "^3.0.0",
     "rxjs": "^6.0.0",
     "zone.js": "^0.10.3"
   },
