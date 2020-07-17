@@ -26,10 +26,10 @@
     "zone.js": "^0.10.3"
   },
   "devDependencies": {
-    "css-loader": "^0.26.1",
-    "html-loader": "^0.4.4",
-    "style-loader": "^0.13.1",
-    "typescript": "^2.0.9",
-    "webpack": "^1.13.3"
+    "css-loader": "0.26.4",
+    "html-loader": "0.4.5",
+    "style-loader": "0.13.2",
+    "typescript": "2.9.2",
+    "webpack": "1.15.0"
   }
 }
