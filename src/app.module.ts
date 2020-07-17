@@ -5,10 +5,9 @@ import { AppComponent } from './app.component';
 import { MomotaComponent } from './members/momota.component';
 import { TamaiComponent } from './members/tamai.component';
 import { SasakiComponent } from './members/sasaki.component';
-import { AriyasuComponent } from './members/ariyasu.component';
 import { TakagiComponent } from './members/takagi.component';
 
-import { ClarityModule } from 'clarity-angular';
+import { ClarityModule } from '@clr/angular';
 
 import { AppRoutingModule } from './app-routing.module';
 
@@ -23,7 +22,6 @@ import { AppRoutingModule } from './app-routing.module';
         MomotaComponent,
         TamaiComponent,
         SasakiComponent,
-        AriyasuComponent,
         TakagiComponent
     ],
     bootstrap: [AppComponent]

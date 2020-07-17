@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-    selector: 'tamai',
+    selector: 'app-tamai',
     template: '<h1>tamai<h1>'
 })
 export class TamaiComponent {

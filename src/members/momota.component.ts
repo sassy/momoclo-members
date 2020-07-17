@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-    selector: 'momota',
+    selector: 'app-momota',
     template: '<h1>momota<h1>'
 })
 export class MomotaComponent {
