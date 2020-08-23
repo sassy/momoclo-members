@@ -22,7 +22,7 @@
     "@angular/platform-browser": "^10.0.7",
     "@angular/platform-browser-dynamic": "^10.0.7",
     "@angular/router": "^10.0.7",
-    "@clr/angular": "^3.1.5",
+    "@clr/angular": "^4.0.0",
     "@clr/ui": "^3.1.5",
     "angular-cli-ghpages": "^0.6.2",
     "npm": "^6.14.6",
